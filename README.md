@@ -32,7 +32,7 @@ structured testing, clear documentation, and strong attention to user experience
   <strong>QA:</strong> Manual Testing, Test Case Design, Functional Testing,
   Regression Testing, UAT, Bug Tracking, Test Documentation<br/><br/>
 
-  <strong>Automation & Tools (Basic):</strong> Postman, Cypress, Katalon<br/><br/>
+  <strong>Automation & Tools (Basic):</strong> Postman, Cypress, Playwright<br/><br/>
 
   <strong>Front-End (Supporting Skill):</strong> HTML, CSS, JavaScript, React,
   TypeScript, Tailwind CSS, UI Validation & Debugging<br/><br/>
