@@ -1,8 +1,7 @@
 <h2>👋 Hi, I'm Adnan Yazid Ardiansyah</h2>
 
 <p>
-I started my tech journey as a <strong>Front-End Developer</strong>, where I learned how products are built, 
-how users interact with interfaces, and how small UI issues can turn into real user frustration.
+I began my career as a Front-End Developer, spending two years learning how products are built, how users interact with interfaces, and how even small UI issues can create real frustration.
 </p>
 
 <p>
